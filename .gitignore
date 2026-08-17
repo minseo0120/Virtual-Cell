@@ -216,3 +216,14 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
+# Virtual Cell
+data/
+models/
+outputs/
+
+*.pt
+*.pth
+*.ckpt
+*.h5ad
